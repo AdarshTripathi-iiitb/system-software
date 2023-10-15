@@ -1,3 +1,12 @@
+/*
+ * ============================================================================
+ Name : 16.c
+ Author :Adarsh Tripathi
+ Description : Write a program to send and receive data from parent to child vice versa. Use two way
+		communication.
+ Date: 10th OCT, 2023.
+============================================================================
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
