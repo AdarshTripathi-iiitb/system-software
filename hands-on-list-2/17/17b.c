@@ -1,3 +1,14 @@
+/*
+ * ============================================================================
+ Name : 17.c
+ Author :Adarsh Tripathi
+ Description : Write a program to execute ls -l | wc.
+a. use dup
+b. use dup2
+c. use fcntl
+ Date: 10th OCT, 2023.
+============================================================================
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
