@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : 14.c
+Author :Adarsh Tripathi
+Description : Write a simple program to create a pipe, write to the pipe, read from pipe and display on
+the monitor.
+Date: 10-october-2023
+============================================================================
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
